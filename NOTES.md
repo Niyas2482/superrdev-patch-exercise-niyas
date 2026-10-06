@@ -97,6 +97,4 @@ Tools used:
 - Browser
 - Git
 
-I used ChatGPT as an assistant to understand the existing code, identify possible issues, understand the SQL condition problem, plan the fixes, and review the changes.
-
 I made and reviewed the actual code changes myself and verified the application using API checks, browser testing, and build commands.
